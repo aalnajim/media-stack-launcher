@@ -10,7 +10,7 @@ It provides a Tkinter GUI for managing:
 - Radarr
 - qBittorrent
 
-The launcher can detect app paths, start selected services, optionally open their web interfaces, run a cleanup pass before launch, and show diagnostics for ports and HTTP reachability.
+The launcher can detect app paths, start selected services, optionally open their web interfaces, run a cleanup pass before launch, and show diagnostics for ports and HTTP reachability. It is intended as a lightweight local control panel for a self-hosted media stack on macOS.
 
 ## Features
 
